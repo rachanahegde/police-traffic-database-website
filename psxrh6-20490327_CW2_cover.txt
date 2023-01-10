@@ -1,0 +1,40 @@
+Name: Rachana Hegde
+Student ID: 20490327
+Username: psxrh6
+
+URL: http://mersey.cs.nott.ac.uk/~psxrh6/DIS-COMP4039-CW2-psxrh6-20490327/psxrh6-20490327_InstallationFiles/login.php
+
+Directory Overview:
+DIS-COMP4039-CW2-psxrh6-20490327/ [dir]
+├── psxrh6-20490327_CW2_cover.txt
+├── psxrh6-20490327_InstallationFiles/ [dir]
+│  ├── account.php 
+│  ├── config/ [dir]
+│  │  ├── database-details.php
+│  │  └── user-session.php
+│  ├── resources/ [dir]
+│  │  └── style.css
+│  ├── add-fine.php
+│  ├── audit.php
+│  ├── create-account.php
+│  ├── edit-report.php
+│  ├── index.php
+│  ├── login.php
+│  ├── nav-bar.php
+│  ├── script.js
+│  ├── search-people.php
+│  ├── search-reports.php
+│  ├── search-vehicles.php
+│  ├── submit-person.php
+│  ├── submit-report.php
+│  ├── submit-vehicle.php
+│  └── police-db.sql
+├── psxrh6_Technical.pdf
+└── psxrh6_UserManual.pdf
+
+I used and adapted code from the following websites:
+• CSS code: https://github.com/andybrewer/mvp
+• Schema for Audit table: https://medium.com/techtofreedom/4-common-designs-of-audit-trail-tracking-data-changes-in-databases-c894b7bb6d18 and https://dba.stackexchange.com/questions/30911/normalized-table-structure-for-logging
+• PHP code for autofilling forms and updating form data: https://www.allphptricks.com/insert-view-edit-and-delete-record-from-database-using-php-and-mysqli/ 
+• Logging in and tracking users: https://www.geeksforgeeks.org/how-to-display-logged-in-user-information-in-php/ 
+• Select box with search option: https://stackoverflow.com/questions/18796221/creating-a-select-box-with-a-search-option and https://selectize.dev/

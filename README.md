@@ -6,8 +6,8 @@ This project is built with HTML, CSS, PHP, JavaScript and SQL for the COMP 4039 
 
 ## Resources
 I used and adapted code from the following websites:
-• CSS code: https://github.com/andybrewer/mvp
-• Schema for Audit table: https://medium.com/techtofreedom/4-common-designs-of-audit-trail-tracking-data-changes-in-databases-c894b7bb6d18 and https://dba.stackexchange.com/questions/30911/normalized-table-structure-for-logging
-• PHP code for autofilling forms and updating form data: https://www.allphptricks.com/insert-view-edit-and-delete-record-from-database-using-php-and-mysqli/ 
-• Logging in and tracking users: https://www.geeksforgeeks.org/how-to-display-logged-in-user-information-in-php/ 
-• Select box with search option: https://stackoverflow.com/questions/18796221/creating-a-select-box-with-a-search-option and https://selectize.dev/
+* CSS code: https://github.com/andybrewer/mvp
+* Schema for Audit table: https://medium.com/techtofreedom/4-common-designs-of-audit-trail-tracking-data-changes-in-databases-c894b7bb6d18 and https://dba.stackexchange.com/questions/30911/normalized-table-structure-for-logging
+* PHP code for autofilling forms and updating form data: https://www.allphptricks.com/insert-view-edit-and-delete-record-from-database-using-php-and-mysqli/ 
+* Logging in and tracking users: https://www.geeksforgeeks.org/how-to-display-logged-in-user-information-in-php/ 
+* Select box with search option: https://stackoverflow.com/questions/18796221/creating-a-select-box-with-a-search-option and https://selectize.dev/
